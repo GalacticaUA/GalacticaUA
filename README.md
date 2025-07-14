@@ -7,7 +7,7 @@
  
  🔭 I’m currently studing
  
- 🌱 I’m currently learning **Vue.js MQTT MySQL**
+ 🌱 I’m currently learning **React.js Node.js**
 
  </div>
 
